@@ -12,7 +12,7 @@ url =" https://www.gov.uk/bank-holidays.json"
 response = requests.get(url) 
 dict = response.json() 
 
- print(json.dumps(dict['northern-ireland']['events'], indent = 4))  ## This is working code, dont fuck with it! 
+print(json.dumps(dict['northern-ireland']['events'], indent = 4))  ## This is working code, dont fuck with it! 
 
 #print ( ['events'] for ['northern-ireland'] in dict if(['date'] == ['2027-05-31'])else: () )
 #print (obj for obj in dict if(obj['type'] == 1))
