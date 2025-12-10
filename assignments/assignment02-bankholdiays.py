@@ -29,12 +29,32 @@ with open (FULLPATH, "rt") as fp:
 #print the data from the dict
 #print(bankholidays['northern-ireland']['events'])
 
-# call the event titles from the lists
+# call the event titles that happen in Norther ireland from the lists
 NIevents = bankholidays['northern-ireland'].get('events')
-#print(type(NIevents))
+print("\nNorthern Ireland List:\n")
+NIlist = []
 for titles in NIevents:
+    y=list(titles.values())[0],list(titles.values())[1]
+    NIlist.append(y)
+print(NIlist)
+with open("Northern-Ireland Bank Holidays.txt","w") as output:
+    output.write(str(NIlist))
+'''
+Scotlandevents = bankholidays['scotland'].get('events')
+print("\nScotland List:\n")
+ScotlandList =[]
+for titles in Scotlandevents:
     print(list(titles.values())[0],":",list(titles.values())[1])
+    
 
+
+EnglandAndWalesevents = bankholidays['england-and-wales'].get('events')
+print("\nEngland and Wales List:\n")
+EnglandAndWalesList = []
+for titles in EnglandAndWalesevents:
+    print(list(titles.values())[0],":",list(titles.values())[1])
+    
+'''
 
 #for dates in titles:
     #list(dates.keys())[0]
