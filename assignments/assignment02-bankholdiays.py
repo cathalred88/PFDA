@@ -39,22 +39,32 @@ for titles in NIevents:
 print(NIlist)
 with open("Northern-Ireland Bank Holidays.txt","w") as output:
     output.write(str(NIlist))
-'''
+
+
+#Scotland
 Scotlandevents = bankholidays['scotland'].get('events')
 print("\nScotland List:\n")
 ScotlandList =[]
 for titles in Scotlandevents:
-    print(list(titles.values())[0],":",list(titles.values())[1])
-    
+    y=list(titles.values())[0],":",list(titles.values())[1]
+    ScotlandList.append(y)
+print(ScotlandList)
+with open("Scotland Bank Holidays.txt","w") as output:
+    output.write(str(ScotlandList))
 
-
+#England and Wales
 EnglandAndWalesevents = bankholidays['england-and-wales'].get('events')
 print("\nEngland and Wales List:\n")
 EnglandAndWalesList = []
 for titles in EnglandAndWalesevents:
-    print(list(titles.values())[0],":",list(titles.values())[1])
-    
-'''
+    y=list(titles.values())[0],":",list(titles.values())[1]
+    EnglandAndWalesList.append(y)
+print(EnglandAndWalesList)
+with open("England and Wales Bank Holidays.txt","w") as output:
+    output.write(str(EnglandAndWalesList))
+
+
+# now we just need a way to detect the unique individual elements from these 3 text files. 
 
 #for dates in titles:
     #list(dates.keys())[0]
