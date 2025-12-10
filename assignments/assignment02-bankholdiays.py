@@ -34,7 +34,7 @@ NIevents = bankholidays['northern-ireland'].get('events')
 #print("\nNorthern Ireland List:\n")
 NIlist = []
 for titles in NIevents:
-    y=list(titles.values())[0],list(titles.values())[1]
+    y=list(titles.values())[0]
     NIlist.append(y)
 #print(NIlist)
 with open("Northern-Ireland Bank Holidays.txt","w") as output:
@@ -46,7 +46,7 @@ Scotlandevents = bankholidays['scotland'].get('events')
 #print("\nScotland List:\n")
 ScotlandList =[]
 for titles in Scotlandevents:
-    y=list(titles.values())[0],":",list(titles.values())[1]
+    y=list(titles.values())[0]
     ScotlandList.append(y)
 #print(ScotlandList)
 with open("Scotland Bank Holidays.txt","w") as output:
@@ -57,15 +57,15 @@ EnglandAndWalesevents = bankholidays['england-and-wales'].get('events')
 #print("\nEngland and Wales List:\n")
 EnglandAndWalesList = []
 for titles in EnglandAndWalesevents:
-    y=list(titles.values())[0],":",list(titles.values())[1]
+    y=list(titles.values())[0]
     EnglandAndWalesList.append(y)
 #print(EnglandAndWalesList)
 with open("England and Wales Bank Holidays.txt","w") as output:
     output.write(str(EnglandAndWalesList))
 
 
-# now we just need a way to detect the unique individual elements from these 3 text files. 
-# i will acomplish this using Sets # https://stackoverflow.com/questions/64422967/how-to-get-values-unique-to-each-list-for-three-lists
+# Now we just need a way to detect the unique individual elements from these 3 text files. 
+# I will acomplish this using Sets # https://stackoverflow.com/questions/64422967/how-to-get-values-unique-to-each-list-for-three-lists
 set_NI = set(NIlist)
 set_Scot = set(ScotlandList)
 set_EngWales = set(EnglandAndWalesList)
@@ -78,24 +78,5 @@ print("\n","Only in Northern Ireland:", onlyinNI,"\n")
 print("Only in Scotland:", onlyinScot,"\n")
 print("Only in England:",onlyinEng,"\n")
 
-#print("Only in Northern Ireland:",onlyinNI)
-
-
-#for dates in titles:
-    #list(dates.keys())[0]
-    #print(dates)
-
-#titles = events.items()
-#print(titles)
-
-#dict = r.json() 
-#bankholidays = json.dumps(dict['northern-ireland']['events'], indent = 4)
-#bankholidays = json.dumps(dict)
-#print(type(bankholidays))
-
-#print(dict['northern-ireland']['events'])
-
-#print(json.dumps(dict['northern-ireland']['events']['title'], indent = 4))  # This is working code, dont mess with it! 
-
-#print(json.dumps(dict['events'] for ['northern-ireland'] in dict if(['date'] == ['2027-05-31'])else: () ))
-#print(obj for obj in dict if(obj['type'] == 1))
+# End of code
+# Completed on 10 Dec 2025
