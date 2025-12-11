@@ -8,10 +8,10 @@
 import requests  
 import json
 
-# Request from Web
+# Request from Web method
 # this method downloads the file from the web new each time
-url =" https://www.gov.uk/bank-holidays.json" 
-r = requests.get(url) 
+#url =" https://www.gov.uk/bank-holidays.json" 
+#r = requests.get(url) 
 
 # Check the status of the request
 # if the server sucessfully handles the request, this will respond with the value "200"
@@ -26,10 +26,7 @@ FULLPATH = DATADIR + FILENAME
 with open (FULLPATH, "rt") as fp:
     bankholidays = json.load(fp)
 
-#print the data from the dict
-#print(bankholidays['northern-ireland']['events'])
-
-# call the event titles that happen in Norther ireland from the lists
+# Call the event titles that happen in Northern ireland from the lists
 NIevents = bankholidays['northern-ireland'].get('events')
 #print("\nNorthern Ireland List:\n")
 NIlist = []
