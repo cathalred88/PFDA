@@ -1,0 +1,621 @@
+county_and_age_group,Female,Male,Excess Females at age group
+Carlow County Council 0-4,1736,1800,-64
+Carlow County Council 10-14,2287,2400,-113
+Carlow County Council 15-19,2114,2209,-95
+Carlow County Council 20-24,1781,2000,-219
+Carlow County Council 25-29,1626,1666,-40
+Carlow County Council 30-34,1910,1804,106
+Carlow County Council 35-39,2377,2153,224
+Carlow County Council 40-44,2463,2444,19
+Carlow County Council 45-49,2325,2227,98
+Carlow County Council 5-9,2026,2063,-37
+Carlow County Council 50-54,2060,2065,-5
+Carlow County Council 55-59,1923,1883,40
+Carlow County Council 60-64,1686,1636,50
+Carlow County Council 65-69,1468,1443,25
+Carlow County Council 70-74,1239,1242,-3
+Carlow County Council 75-79,923,916,7
+Carlow County Council 80-84,655,530,125
+Carlow County Council 85-89,347,263,84
+Carlow County Council 90-94,157,68,89
+Carlow County Council 95-99,40,10,30
+Cavan County Council 0-4,2515,2688,-173
+Cavan County Council 10-14,3212,3350,-138
+Cavan County Council 15-19,2752,2888,-136
+Cavan County Council 20-24,2029,2203,-174
+Cavan County Council 25-29,1912,1999,-87
+Cavan County Council 30-34,2414,2273,141
+Cavan County Council 35-39,3106,2870,236
+Cavan County Council 40-44,3229,3105,124
+Cavan County Council 45-49,2859,2830,29
+Cavan County Council 5-9,2907,3080,-173
+Cavan County Council 50-54,2695,2789,-94
+Cavan County Council 55-59,2451,2590,-139
+Cavan County Council 60-64,2192,2265,-73
+Cavan County Council 65-69,1961,1998,-37
+Cavan County Council 70-74,1591,1681,-90
+Cavan County Council 75-79,1221,1178,43
+Cavan County Council 80-84,744,712,32
+Cavan County Council 85-89,556,419,137
+Cavan County Council 90-94,226,117,109
+Cavan County Council 95-99,60,19,41
+Clare County Council 0-4,3650,3533,117
+Clare County Council 10-14,4680,4720,-40
+Clare County Council 15-19,4395,4527,-132
+Clare County Council 20-24,3419,3539,-120
+Clare County Council 25-29,3001,2991,10
+Clare County Council 30-34,3459,3204,255
+Clare County Council 35-39,4438,3974,464
+Clare County Council 40-44,5092,4578,514
+Clare County Council 45-49,4847,4619,228
+Clare County Council 5-9,4067,4348,-281
+Clare County Council 50-54,4710,4504,206
+Clare County Council 55-59,4297,4157,140
+Clare County Council 60-64,3745,3787,-42
+Clare County Council 65-69,3307,3320,-13
+Clare County Council 70-74,2964,2887,77
+Clare County Council 75-79,2257,2157,100
+Clare County Council 80-84,1359,1214,145
+Clare County Council 85-89,845,634,211
+Clare County Council 90-94,364,179,185
+Clare County Council 95-99,109,42,67
+Cork City Council 0-4,5629,5781,-152
+Cork City Council 10-14,6493,6607,-114
+Cork City Council 15-19,6671,6801,-130
+Cork City Council 20-24,9084,8569,515
+Cork City Council 25-29,8624,8667,-43
+Cork City Council 30-34,8864,8466,398
+Cork City Council 35-39,9007,8596,411
+Cork City Council 40-44,8618,8397,221
+Cork City Council 45-49,7359,7376,-17
+Cork City Council 5-9,6126,6429,-303
+Cork City Council 50-54,6813,6704,109
+Cork City Council 55-59,6694,6448,246
+Cork City Council 60-64,6195,5714,481
+Cork City Council 65-69,4988,4726,262
+Cork City Council 70-74,4385,4019,366
+Cork City Council 75-79,3613,3085,528
+Cork City Council 80-84,2632,1971,661
+Cork City Council 85-89,1611,1003,608
+Cork City Council 90-94,689,323,366
+Cork City Council 95-99,153,48,105
+Cork County Council 0-4,10645,11007,-362
+Cork County Council 10-14,14209,14663,-454
+Cork County Council 15-19,11936,12780,-844
+Cork County Council 20-24,8365,9196,-831
+Cork County Council 25-29,7774,7745,29
+Cork County Council 30-34,10132,9136,996
+Cork County Council 35-39,13355,11826,1529
+Cork County Council 40-44,15271,14214,1057
+Cork County Council 45-49,14069,13961,108
+Cork County Council 5-9,12710,13368,-658
+Cork County Council 50-54,12517,12724,-207
+Cork County Council 55-59,11164,11553,-389
+Cork County Council 60-64,9656,9987,-331
+Cork County Council 65-69,8678,8758,-80
+Cork County Council 70-74,7425,7452,-27
+Cork County Council 75-79,5765,5389,376
+Cork County Council 80-84,3658,3035,623
+Cork County Council 85-89,2339,1677,662
+Cork County Council 90-94,1057,541,516
+Cork County Council 95-99,275,86,189
+Donegal County Council 0-4,4873,4939,-66
+Donegal County Council 10-14,6315,6645,-330
+Donegal County Council 15-19,5474,5904,-430
+Donegal County Council 20-24,4044,4328,-284
+Donegal County Council 25-29,3744,3692,52
+Donegal County Council 30-34,4772,4360,412
+Donegal County Council 35-39,5635,5112,523
+Donegal County Council 40-44,6386,5908,478
+Donegal County Council 45-49,6040,5889,151
+Donegal County Council 5-9,5495,5825,-330
+Donegal County Council 50-54,5841,5794,47
+Donegal County Council 55-59,5474,5272,202
+Donegal County Council 60-64,5019,4681,338
+Donegal County Council 65-69,4380,4500,-120
+Donegal County Council 70-74,3894,3877,17
+Donegal County Council 75-79,2992,3044,-52
+Donegal County Council 80-84,1984,1832,152
+Donegal County Council 85-89,1219,848,371
+Donegal County Council 90-94,535,286,249
+Donegal County Council 95-99,142,57,85
+Dublin City Council 0-4,14042,14904,-862
+Dublin City Council 10-14,14995,15306,-311
+Dublin City Council 15-19,15088,15181,-93
+Dublin City Council 20-24,23879,22028,1851
+Dublin City Council 25-29,29694,29364,330
+Dublin City Council 30-34,29466,29767,-301
+Dublin City Council 35-39,25556,26139,-583
+Dublin City Council 40-44,22909,23246,-337
+Dublin City Council 45-49,18791,19117,-326
+Dublin City Council 5-9,14473,14883,-410
+Dublin City Council 50-54,17622,17493,129
+Dublin City Council 55-59,16015,15562,453
+Dublin City Council 60-64,14172,13653,519
+Dublin City Council 65-69,11817,11066,751
+Dublin City Council 70-74,10228,9055,1173
+Dublin City Council 75-79,8276,6891,1385
+Dublin City Council 80-84,6493,4460,2033
+Dublin City Council 85-89,4603,2558,2045
+Dublin City Council 90-94,2189,907,1282
+Dublin City Council 95-99,529,196,333
+Dún Laoghaire Rathdown County Council 0-4,6205,6449,-244
+Dún Laoghaire Rathdown County Council 10-14,7259,7680,-421
+Dún Laoghaire Rathdown County Council 15-19,7303,7151,152
+Dún Laoghaire Rathdown County Council 20-24,8324,7696,628
+Dún Laoghaire Rathdown County Council 25-29,7547,7383,164
+Dún Laoghaire Rathdown County Council 30-34,7942,7467,475
+Dún Laoghaire Rathdown County Council 35-39,8598,7871,727
+Dún Laoghaire Rathdown County Council 40-44,9224,8574,650
+Dún Laoghaire Rathdown County Council 45-49,8069,7615,454
+Dún Laoghaire Rathdown County Council 5-9,7307,7403,-96
+Dún Laoghaire Rathdown County Council 50-54,7635,6996,639
+Dún Laoghaire Rathdown County Council 55-59,7468,6441,1027
+Dún Laoghaire Rathdown County Council 60-64,6502,5833,669
+Dún Laoghaire Rathdown County Council 65-69,5762,4980,782
+Dún Laoghaire Rathdown County Council 70-74,5103,4242,861
+Dún Laoghaire Rathdown County Council 75-79,4537,3605,932
+Dún Laoghaire Rathdown County Council 80-84,3458,2554,904
+Dún Laoghaire Rathdown County Council 85-89,2243,1440,803
+Dún Laoghaire Rathdown County Council 90-94,1043,535,508
+Dún Laoghaire Rathdown County Council 95-99,257,104,153
+Fingal County Council 0-4,10277,10740,-463
+Fingal County Council 10-14,13414,14302,-888
+Fingal County Council 15-19,11296,11580,-284
+Fingal County Council 20-24,9331,9766,-435
+Fingal County Council 25-29,9166,9077,89
+Fingal County Council 30-34,11546,10382,1164
+Fingal County Council 35-39,14415,12795,1620
+Fingal County Council 40-44,15653,14740,913
+Fingal County Council 45-49,13683,13360,323
+Fingal County Council 5-9,12322,12993,-671
+Fingal County Council 50-54,10883,10734,149
+Fingal County Council 55-59,8807,8365,442
+Fingal County Council 60-64,7464,6871,593
+Fingal County Council 65-69,6252,5616,636
+Fingal County Council 70-74,5275,4685,590
+Fingal County Council 75-79,3969,3448,521
+Fingal County Council 80-84,2230,1897,333
+Fingal County Council 85-89,1253,884,369
+Fingal County Council 90-94,572,247,325
+Fingal County Council 95-99,149,46,103
+Galway City Council 0-4,1975,1995,-20
+Galway City Council 10-14,2249,2351,-102
+Galway City Council 15-19,2819,2571,248
+Galway City Council 20-24,5171,4350,821
+Galway City Council 25-29,3804,3730,74
+Galway City Council 30-34,3478,3296,182
+Galway City Council 35-39,3485,3153,332
+Galway City Council 40-44,3311,3356,-45
+Galway City Council 45-49,2920,2702,218
+Galway City Council 5-9,2196,2266,-70
+Galway City Council 50-54,2389,2275,114
+Galway City Council 55-59,2195,1972,223
+Galway City Council 60-64,1963,1718,245
+Galway City Council 65-69,1773,1515,258
+Galway City Council 70-74,1454,1219,235
+Galway City Council 75-79,1207,951,256
+Galway City Council 80-84,858,560,298
+Galway City Council 85-89,460,312,148
+Galway City Council 90-94,227,106,121
+Galway City Council 95-99,61,13,48
+Galway County Council 0-4,5696,6100,-404
+Galway County Council 10-14,7295,7683,-388
+Galway County Council 15-19,6420,6901,-481
+Galway County Council 20-24,4233,4822,-589
+Galway County Council 25-29,3893,3947,-54
+Galway County Council 30-34,5286,4730,556
+Galway County Council 35-39,6966,6248,718
+Galway County Council 40-44,7982,7506,476
+Galway County Council 45-49,7542,7265,277
+Galway County Council 5-9,6691,7105,-414
+Galway County Council 50-54,6812,6787,25
+Galway County Council 55-59,6056,6140,-84
+Galway County Council 60-64,5503,5552,-49
+Galway County Council 65-69,4929,5024,-95
+Galway County Council 70-74,4166,4241,-75
+Galway County Council 75-79,3062,3071,-9
+Galway County Council 80-84,2043,1997,46
+Galway County Council 85-89,1344,1009,335
+Galway County Council 90-94,661,321,340
+Galway County Council 95-99,197,55,142
+Kerry County Council 0-4,4076,4224,-148
+Kerry County Council 10-14,5372,5459,-87
+Kerry County Council 15-19,4842,5002,-160
+Kerry County Council 20-24,3846,3937,-91
+Kerry County Council 25-29,3496,3551,-55
+Kerry County Council 30-34,4281,3990,291
+Kerry County Council 35-39,5605,4855,750
+Kerry County Council 40-44,6162,5825,337
+Kerry County Council 45-49,5720,5625,95
+Kerry County Council 5-9,4703,4922,-219
+Kerry County Council 50-54,5451,5583,-132
+Kerry County Council 55-59,5262,5147,115
+Kerry County Council 60-64,5019,4936,83
+Kerry County Council 65-69,4552,4547,5
+Kerry County Council 70-74,3904,4019,-115
+Kerry County Council 75-79,3048,3004,44
+Kerry County Council 80-84,1928,1653,275
+Kerry County Council 85-89,1140,813,327
+Kerry County Council 90-94,516,254,262
+Kerry County Council 95-99,136,39,97
+Kildare County Council 0-4,7538,7943,-405
+Kildare County Council 10-14,9644,10264,-620
+Kildare County Council 15-19,8718,9252,-534
+Kildare County Council 20-24,7158,7650,-492
+Kildare County Council 25-29,6524,6428,96
+Kildare County Council 30-34,8078,7315,763
+Kildare County Council 35-39,10248,9266,982
+Kildare County Council 40-44,10933,10516,417
+Kildare County Council 45-49,9862,9700,162
+Kildare County Council 5-9,8768,9220,-452
+Kildare County Council 50-54,8419,8672,-253
+Kildare County Council 55-59,7209,7091,118
+Kildare County Council 60-64,5853,5785,68
+Kildare County Council 65-69,5138,4925,213
+Kildare County Council 70-74,4182,3955,227
+Kildare County Council 75-79,2960,2943,17
+Kildare County Council 80-84,1717,1396,321
+Kildare County Council 85-89,1012,682,330
+Kildare County Council 90-94,416,222,194
+Kildare County Council 95-99,114,33,81
+Kilkenny County Council 0-4,2872,2988,-116
+Kilkenny County Council 10-14,3816,4170,-354
+Kilkenny County Council 15-19,3434,3614,-180
+Kilkenny County Council 20-24,2419,2738,-319
+Kilkenny County Council 25-29,2554,2491,63
+Kilkenny County Council 30-34,2942,2847,95
+Kilkenny County Council 35-39,3801,3355,446
+Kilkenny County Council 40-44,4093,3987,106
+Kilkenny County Council 45-49,3959,3927,32
+Kilkenny County Council 5-9,3544,3704,-160
+Kilkenny County Council 50-54,3572,3521,51
+Kilkenny County Council 55-59,3376,3307,69
+Kilkenny County Council 60-64,3068,3005,63
+Kilkenny County Council 65-69,2577,2661,-84
+Kilkenny County Council 70-74,2159,2250,-91
+Kilkenny County Council 75-79,1758,1640,118
+Kilkenny County Council 80-84,1126,984,142
+Kilkenny County Council 85-89,784,501,283
+Kilkenny County Council 90-94,322,159,163
+Kilkenny County Council 95-99,89,28,61
+Laois County Council 0-4,2748,2968,-220
+Laois County Council 10-14,3813,4013,-200
+Laois County Council 15-19,3249,3388,-139
+Laois County Council 20-24,2370,2562,-192
+Laois County Council 25-29,2145,2267,-122
+Laois County Council 30-34,2773,2624,149
+Laois County Council 35-39,3811,3506,305
+Laois County Council 40-44,3954,3798,156
+Laois County Council 45-49,3428,3396,32
+Laois County Council 5-9,3311,3555,-244
+Laois County Council 50-54,2982,3226,-244
+Laois County Council 55-59,2626,2711,-85
+Laois County Council 60-64,2263,2412,-149
+Laois County Council 65-69,1946,2013,-67
+Laois County Council 70-74,1529,1605,-76
+Laois County Council 75-79,1246,1157,89
+Laois County Council 80-84,727,643,84
+Laois County Council 85-89,451,314,137
+Laois County Council 90-94,183,108,75
+Laois County Council 95-99,34,12,22
+Leitrim County Council 0-4,1054,1091,-37
+Leitrim County Council 10-14,1266,1291,-25
+Leitrim County Council 15-19,1105,1191,-86
+Leitrim County Council 20-24,719,825,-106
+Leitrim County Council 25-29,701,734,-33
+Leitrim County Council 30-34,1023,847,176
+Leitrim County Council 35-39,1206,1111,95
+Leitrim County Council 40-44,1358,1280,78
+Leitrim County Council 45-49,1244,1236,8
+Leitrim County Council 5-9,1206,1253,-47
+Leitrim County Council 50-54,1239,1223,16
+Leitrim County Council 55-59,1152,1153,-1
+Leitrim County Council 60-64,1024,1094,-70
+Leitrim County Council 65-69,1036,1053,-17
+Leitrim County Council 70-74,839,878,-39
+Leitrim County Council 75-79,629,641,-12
+Leitrim County Council 80-84,415,370,45
+Leitrim County Council 85-89,249,192,57
+Leitrim County Council 90-94,135,79,56
+Leitrim County Council 95-99,42,11,31
+Limerick City & County Council 0-4,5652,5940,-288
+Limerick City & County Council 10-14,7121,7458,-337
+Limerick City & County Council 15-19,6577,7099,-522
+Limerick City & County Council 20-24,6727,6955,-228
+Limerick City & County Council 25-29,6291,6222,69
+Limerick City & County Council 30-34,6675,6395,280
+Limerick City & County Council 35-39,7900,7352,548
+Limerick City & County Council 40-44,8191,7942,249
+Limerick City & County Council 45-49,7340,7536,-196
+Limerick City & County Council 5-9,6503,6800,-297
+Limerick City & County Council 50-54,6601,6915,-314
+Limerick City & County Council 55-59,6171,6157,14
+Limerick City & County Council 60-64,5696,5732,-36
+Limerick City & County Council 65-69,5119,5183,-64
+Limerick City & County Council 70-74,4531,4432,99
+Limerick City & County Council 75-79,3578,3182,396
+Limerick City & County Council 80-84,2319,1874,445
+Limerick City & County Council 85-89,1330,948,382
+Limerick City & County Council 90-94,580,267,313
+Limerick City & County Council 95-99,148,56,92
+Longford County Council 0-4,1334,1361,-27
+Longford County Council 10-14,1784,1896,-112
+Longford County Council 15-19,1547,1679,-132
+Longford County Council 20-24,1175,1353,-178
+Longford County Council 25-29,1174,1119,55
+Longford County Council 30-34,1435,1314,121
+Longford County Council 35-39,1775,1572,203
+Longford County Council 40-44,1914,1908,6
+Longford County Council 45-49,1692,1726,-34
+Longford County Council 5-9,1600,1753,-153
+Longford County Council 50-54,1538,1567,-29
+Longford County Council 55-59,1338,1405,-67
+Longford County Council 60-64,1220,1240,-20
+Longford County Council 65-69,1120,1115,5
+Longford County Council 70-74,958,1030,-72
+Longford County Council 75-79,774,721,53
+Longford County Council 80-84,435,398,37
+Longford County Council 85-89,313,236,77
+Longford County Council 90-94,139,48,91
+Longford County Council 95-99,32,7,25
+Louth County Council 0-4,3964,4296,-332
+Louth County Council 10-14,5393,5593,-200
+Louth County Council 15-19,4887,5087,-200
+Louth County Council 20-24,4059,4335,-276
+Louth County Council 25-29,3649,3570,79
+Louth County Council 30-34,4417,4051,366
+Louth County Council 35-39,5341,4657,684
+Louth County Council 40-44,5801,5325,476
+Louth County Council 45-49,5281,5044,237
+Louth County Council 5-9,4839,5009,-170
+Louth County Council 50-54,4876,4918,-42
+Louth County Council 55-59,4149,4184,-35
+Louth County Council 60-64,3538,3542,-4
+Louth County Council 65-69,3036,3042,-6
+Louth County Council 70-74,2669,2486,183
+Louth County Council 75-79,2194,1880,314
+Louth County Council 80-84,1382,1168,214
+Louth County Council 85-89,836,526,310
+Louth County Council 90-94,355,164,191
+Louth County Council 95-99,107,25,82
+Mayo  County Council 0-4,3745,4017,-272
+Mayo  County Council 10-14,4722,4926,-204
+Mayo  County Council 15-19,4289,4427,-138
+Mayo  County Council 20-24,3100,3168,-68
+Mayo  County Council 25-29,2886,2930,-44
+Mayo  County Council 30-34,3810,3582,228
+Mayo  County Council 35-39,4749,4442,307
+Mayo  County Council 40-44,5215,4774,441
+Mayo  County Council 45-49,4792,4647,145
+Mayo  County Council 5-9,4322,4630,-308
+Mayo  County Council 50-54,4689,4650,39
+Mayo  County Council 55-59,4669,4559,110
+Mayo  County Council 60-64,4515,4387,128
+Mayo  County Council 65-69,4144,4157,-13
+Mayo  County Council 70-74,3602,3699,-97
+Mayo  County Council 75-79,2618,2683,-65
+Mayo  County Council 80-84,1792,1552,240
+Mayo  County Council 85-89,1185,844,341
+Mayo  County Council 90-94,564,269,295
+Mayo  County Council 95-99,145,43,102
+Meath County Council 0-4,6828,7389,-561
+Meath County Council 10-14,9373,9636,-263
+Meath County Council 15-19,7762,8189,-427
+Meath County Council 20-24,5754,6525,-771
+Meath County Council 25-29,5166,5185,-19
+Meath County Council 30-34,6972,6206,766
+Meath County Council 35-39,8816,7988,828
+Meath County Council 40-44,9757,9061,696
+Meath County Council 45-49,8848,8710,138
+Meath County Council 5-9,8357,8649,-292
+Meath County Council 50-54,7629,7792,-163
+Meath County Council 55-59,6274,6537,-263
+Meath County Council 60-64,5188,5176,12
+Meath County Council 65-69,4394,4338,56
+Meath County Council 70-74,3728,3590,138
+Meath County Council 75-79,2772,2576,196
+Meath County Council 80-84,1661,1459,202
+Meath County Council 85-89,1005,720,285
+Meath County Council 90-94,414,218,196
+Meath County Council 95-99,123,40,83
+Monaghan County Council 0-4,2081,2251,-170
+Monaghan County Council 10-14,2511,2661,-150
+Monaghan County Council 15-19,2133,2248,-115
+Monaghan County Council 20-24,1526,1788,-262
+Monaghan County Council 25-29,1483,1631,-148
+Monaghan County Council 30-34,1923,1800,123
+Monaghan County Council 35-39,2402,2265,137
+Monaghan County Council 40-44,2512,2454,58
+Monaghan County Council 45-49,2288,2361,-73
+Monaghan County Council 5-9,2352,2474,-122
+Monaghan County Council 50-54,2036,2166,-130
+Monaghan County Council 55-59,1968,1923,45
+Monaghan County Council 60-64,1825,1829,-4
+Monaghan County Council 65-69,1561,1664,-103
+Monaghan County Council 70-74,1389,1380,9
+Monaghan County Council 75-79,1017,1034,-17
+Monaghan County Council 80-84,681,538,143
+Monaghan County Council 85-89,440,322,118
+Monaghan County Council 90-94,202,98,104
+Monaghan County Council 95-99,57,6,51
+Offaly County Council 0-4,2322,2511,-189
+Offaly County Council 10-14,3128,3364,-236
+Offaly County Council 15-19,2744,3075,-331
+Offaly County Council 20-24,2207,2362,-155
+Offaly County Council 25-29,2072,2065,7
+Offaly County Council 30-34,2473,2284,189
+Offaly County Council 35-39,2986,2775,211
+Offaly County Council 40-44,3391,3133,258
+Offaly County Council 45-49,2982,3090,-108
+Offaly County Council 5-9,2848,2994,-146
+Offaly County Council 50-54,2770,2811,-41
+Offaly County Council 55-59,2544,2594,-50
+Offaly County Council 60-64,2339,2328,11
+Offaly County Council 65-69,1978,2035,-57
+Offaly County Council 70-74,1736,1703,33
+Offaly County Council 75-79,1315,1230,85
+Offaly County Council 80-84,850,702,148
+Offaly County Council 85-89,567,424,143
+Offaly County Council 90-94,212,127,85
+Offaly County Council 95-99,54,20,34
+Roscommon County Council 0-4,2002,2095,-93
+Roscommon County Council 10-14,2489,2657,-168
+Roscommon County Council 15-19,2251,2355,-104
+Roscommon County Council 20-24,1567,1686,-119
+Roscommon County Council 25-29,1455,1514,-59
+Roscommon County Council 30-34,1872,1781,91
+Roscommon County Council 35-39,2475,2278,197
+Roscommon County Council 40-44,2689,2523,166
+Roscommon County Council 45-49,2430,2501,-71
+Roscommon County Council 5-9,2372,2486,-114
+Roscommon County Council 50-54,2323,2409,-86
+Roscommon County Council 55-59,2273,2349,-76
+Roscommon County Council 60-64,2206,2180,26
+Roscommon County Council 65-69,1974,2061,-87
+Roscommon County Council 70-74,1665,1678,-13
+Roscommon County Council 75-79,1247,1267,-20
+Roscommon County Council 80-84,847,738,109
+Roscommon County Council 85-89,591,431,160
+Roscommon County Council 90-94,281,154,127
+Roscommon County Council 95-99,73,22,51
+Sligo County Council 0-4,1923,1995,-72
+Sligo County Council 10-14,2400,2576,-176
+Sligo County Council 15-19,2314,2308,6
+Sligo County Council 20-24,2014,2025,-11
+Sligo County Council 25-29,1643,1649,-6
+Sligo County Council 30-34,1924,1720,204
+Sligo County Council 35-39,2484,2268,216
+Sligo County Council 40-44,2664,2529,135
+Sligo County Council 45-49,2541,2383,158
+Sligo County Council 5-9,2128,2351,-223
+Sligo County Council 50-54,2278,2307,-29
+Sligo County Council 55-59,2316,2201,115
+Sligo County Council 60-64,2244,2110,134
+Sligo County Council 65-69,2037,1892,145
+Sligo County Council 70-74,1698,1722,-24
+Sligo County Council 75-79,1351,1214,137
+Sligo County Council 80-84,832,720,112
+Sligo County Council 85-89,566,418,148
+Sligo County Council 90-94,234,119,115
+Sligo County Council 95-99,69,19,50
+South Dublin County Council 0-4,9034,9643,-609
+South Dublin County Council 10-14,11542,12100,-558
+South Dublin County Council 15-19,9998,10392,-394
+South Dublin County Council 20-24,9109,9431,-322
+South Dublin County Council 25-29,9002,8746,256
+South Dublin County Council 30-34,10742,9539,1203
+South Dublin County Council 35-39,12797,11523,1274
+South Dublin County Council 40-44,13429,12696,733
+South Dublin County Council 45-49,11007,10626,381
+South Dublin County Council 5-9,10502,11168,-666
+South Dublin County Council 50-54,9167,9057,110
+South Dublin County Council 55-59,8166,7511,655
+South Dublin County Council 60-64,7545,6769,776
+South Dublin County Council 65-69,7054,5928,1126
+South Dublin County Council 70-74,6038,5326,712
+South Dublin County Council 75-79,4130,3516,614
+South Dublin County Council 80-84,2475,1949,526
+South Dublin County Council 85-89,1398,948,450
+South Dublin County Council 90-94,539,321,218
+South Dublin County Council 95-99,126,50,76
+Tipperary County Council 0-4,4683,5013,-330
+Tipperary County Council 10-14,6078,6423,-345
+Tipperary County Council 15-19,5438,5669,-231
+Tipperary County Council 20-24,4239,4526,-287
+Tipperary County Council 25-29,3876,4019,-143
+Tipperary County Council 30-34,4741,4384,357
+Tipperary County Council 35-39,5944,5272,672
+Tipperary County Council 40-44,6417,6134,283
+Tipperary County Council 45-49,6088,6098,-10
+Tipperary County Council 5-9,5450,5639,-189
+Tipperary County Council 50-54,5673,5713,-40
+Tipperary County Council 55-59,5456,5601,-145
+Tipperary County Council 60-64,4976,4989,-13
+Tipperary County Council 65-69,4368,4606,-238
+Tipperary County Council 70-74,3838,3798,40
+Tipperary County Council 75-79,3022,2840,182
+Tipperary County Council 80-84,1970,1647,323
+Tipperary County Council 85-89,1280,900,380
+Tipperary County Council 90-94,569,320,249
+Tipperary County Council 95-99,131,44,87
+Waterford City & County Council 0-4,3284,3517,-233
+Waterford City & County Council 10-14,4644,4724,-80
+Waterford City & County Council 15-19,4184,4470,-286
+Waterford City & County Council 20-24,3559,3768,-209
+Waterford City & County Council 25-29,3254,3163,91
+Waterford City & County Council 30-34,3865,3599,266
+Waterford City & County Council 35-39,4663,4164,499
+Waterford City & County Council 40-44,5074,4818,256
+Waterford City & County Council 45-49,4693,4479,214
+Waterford City & County Council 5-9,3995,4299,-304
+Waterford City & County Council 50-54,4285,4259,26
+Waterford City & County Council 55-59,4116,4166,-50
+Waterford City & County Council 60-64,3688,3601,87
+Waterford City & County Council 65-69,3150,3197,-47
+Waterford City & County Council 70-74,2761,2633,128
+Waterford City & County Council 75-79,2207,2085,122
+Waterford City & County Council 80-84,1430,1243,187
+Waterford City & County Council 85-89,904,666,238
+Waterford City & County Council 90-94,406,216,190
+Waterford City & County Council 95-99,91,24,67
+Westmeath County Council 0-4,2836,2915,-79
+Westmeath County Council 10-14,3490,3713,-223
+Westmeath County Council 15-19,3092,3327,-235
+Westmeath County Council 20-24,2614,2820,-206
+Westmeath County Council 25-29,2600,2575,25
+Westmeath County Council 30-34,3068,2844,224
+Westmeath County Council 35-39,3781,3522,259
+Westmeath County Council 40-44,3848,3612,236
+Westmeath County Council 45-49,3472,3397,75
+Westmeath County Council 5-9,3380,3445,-65
+Westmeath County Council 50-54,3224,3229,-5
+Westmeath County Council 55-59,3002,2878,124
+Westmeath County Council 60-64,2571,2597,-26
+Westmeath County Council 65-69,2311,2277,34
+Westmeath County Council 70-74,1838,1832,6
+Westmeath County Council 75-79,1495,1320,175
+Westmeath County Council 80-84,934,792,142
+Westmeath County Council 85-89,580,462,118
+Westmeath County Council 90-94,281,131,150
+Westmeath County Council 95-99,74,30,44
+Wexford County Council 0-4,4505,4651,-146
+Wexford County Council 10-14,6008,6252,-244
+Wexford County Council 15-19,5296,5675,-379
+Wexford County Council 20-24,4127,4302,-175
+Wexford County Council 25-29,4026,3839,187
+Wexford County Council 30-34,4897,4510,387
+Wexford County Council 35-39,5918,5142,776
+Wexford County Council 40-44,6601,6000,601
+Wexford County Council 45-49,6009,5772,237
+Wexford County Council 5-9,5350,5716,-366
+Wexford County Council 50-54,5753,5711,42
+Wexford County Council 55-59,5569,5201,368
+Wexford County Council 60-64,4931,4755,176
+Wexford County Council 65-69,4199,4218,-19
+Wexford County Council 70-74,3604,3612,-8
+Wexford County Council 75-79,2842,2684,158
+Wexford County Council 80-84,1806,1664,142
+Wexford County Council 85-89,1102,790,312
+Wexford County Council 90-94,452,241,211
+Wexford County Council 95-99,133,40,93
+Wicklow County Council 0-4,4283,4664,-381
+Wicklow County Council 10-14,6086,6231,-145
+Wicklow County Council 15-19,5158,5402,-244
+Wicklow County Council 20-24,3748,4193,-445
+Wicklow County Council 25-29,3628,3439,189
+Wicklow County Council 30-34,4526,4000,526
+Wicklow County Council 35-39,6017,5162,855
+Wicklow County Council 40-44,6822,6178,644
+Wicklow County Council 45-49,6150,5959,191
+Wicklow County Council 5-9,5350,5640,-290
+Wicklow County Council 50-54,5528,5399,129
+Wicklow County Council 55-59,5086,4841,245
+Wicklow County Council 60-64,4433,4267,166
+Wicklow County Council 65-69,3753,3524,229
+Wicklow County Council 70-74,3211,3053,158
+Wicklow County Council 75-79,2509,2374,135
+Wicklow County Council 80-84,1557,1336,221
+Wicklow County Council 85-89,905,662,243
+Wicklow County Council 90-94,412,201,211
+Wicklow County Council 95-99,110,36,74
