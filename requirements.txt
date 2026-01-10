@@ -1,6 +1,11 @@
-yfinance
 numpy
 pandas
-ipython
+io
+zipfile
+requests
+datetime
+seaborn
 matplotlib
-# scipy
+windrose
+ipython
+xml
