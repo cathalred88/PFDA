@@ -1,0 +1,13 @@
+yfinance
+numpy
+pandas
+ipython
+matplotlib
+scipy
+io
+zipfile
+requests
+datetime
+seaborn
+windrose
+xml.etree.ElementTree
